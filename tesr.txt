@@ -1,0 +1,3 @@
+ verdim tum gunumu bu sacma seye
+ :wq
+
