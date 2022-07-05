@@ -1,3 +1,4 @@
  verdim tum gunumu bu sacma seye
  :wq
-
+i
+yeni degisiklikler yapocakmisim
